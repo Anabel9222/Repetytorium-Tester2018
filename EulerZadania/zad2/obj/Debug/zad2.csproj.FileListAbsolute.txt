@@ -1,0 +1,6 @@
+C:\Users\AniaPC\git_repositories\mojeRepozytorium\Repetytorium-Tester2018\zad1\EulerZadania\zad2\bin\Debug\zad2.exe.config
+C:\Users\AniaPC\git_repositories\mojeRepozytorium\Repetytorium-Tester2018\zad1\EulerZadania\zad2\bin\Debug\zad2.exe
+C:\Users\AniaPC\git_repositories\mojeRepozytorium\Repetytorium-Tester2018\zad1\EulerZadania\zad2\bin\Debug\zad2.pdb
+C:\Users\AniaPC\git_repositories\mojeRepozytorium\Repetytorium-Tester2018\zad1\EulerZadania\zad2\obj\Debug\zad2.csproj.CoreCompileInputs.cache
+C:\Users\AniaPC\git_repositories\mojeRepozytorium\Repetytorium-Tester2018\zad1\EulerZadania\zad2\obj\Debug\zad2.exe
+C:\Users\AniaPC\git_repositories\mojeRepozytorium\Repetytorium-Tester2018\zad1\EulerZadania\zad2\obj\Debug\zad2.pdb
